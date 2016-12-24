@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Suduku 2018</string>
+    <string name="main_title">Sudoku Game 2018</string>
+    <string name="story_lable">Story</string>
+    <string name="new_game_lable">New Game</string>
+    <string name="continue_lable">Continue</string>
+    <string name="about_lable">About</string>
+    <string name="exit_lable">Exit</string>
+    <string name="game_title">Game</string>
+    <string name="about_us">This game like anthor Sudoku, I hope it will make some thinhg for you</string>
+
+    <string name="new_game_title">Diffculty</string>
+    <string name="easy_lable">Easy</string>
+    <string name="medium_lable">Medium</string>
+    <string name="hard_lable">Hard</string>
+
+    <string name="keypad_title">Keypad</string>
+    <string name="no_move_lable">No Move</string>
+
+    <string name="music_title">Music</string>
+    <string name="music_summary">Play background music</string>
+</resources>
